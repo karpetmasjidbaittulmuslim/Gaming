@@ -1,10 +1,4 @@
-/*
 
-TemplateMo 579 Cyborg Gaming
-
-https://templatemo.com/tm-579-cyborg-gaming
-
-*/
 
 /* ---------------------------------------------
 Table of contents
@@ -554,7 +548,7 @@ Header Style
 
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #e75e8d;
+  background-color: #3B3131;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -607,11 +601,11 @@ Header Style
   -ms-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   -webkit-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   transform: translateY(-6px) translateX(1px) rotate(-45deg);
-  background-color: #e75e8d;
+  background-color: #3B3131;
 }
 
 .background-header .main-nav .menu-trigger.active span:after {
-  background-color: #e75e8d;
+  background-color: #3B3131;
 }
 
 .header-area.header-sticky {
@@ -663,14 +657,14 @@ Header Style
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #e75e8d!important;
+    color: #e75e8d;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
     width: 100%;
   }
   .header-area {
-    background-color: #f7f7f7;
+    background-color: #3B3131;
     padding: 0px 15px;
     height: 80px;
     box-shadow: none;
@@ -710,7 +704,7 @@ Header Style
   }
   .header-area .main-nav .nav li {
     width: 100%;
-    background: #fff;
+    background: #3B3131;
     border-bottom: 1px solid #eee;
     padding-left: 0px !important;
     padding-right: 0px !important;
@@ -774,7 +768,7 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url(https://media.tenor.com/CTMNXJD-5-MAAAAM/like-a-dragon-infinite-wealth-like-a-dragon.gif);
   background-position: center center;
   background-size: cover;
   min-height: 380px;
